@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hanming Li"
-description              : "Hanming Li is the Undergraduate student whose major is materials science."
+description              : "Hanming Li is the Master student whose major is materials science."
 repository               : "LHM2003.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hanming Li"
   avatar           : "images/NPU.png"
-  bio              : "Northwestern Polytechnical University & Queen Mary University of London"
-  location         : "Xian, China"
+  bio              : "Peking University"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "2836@mail.nwpu.edu.cn"
+  email            : "hmli25@stu.pku.edu.cn"
   researchgate     :  
   uri              :
   bitbucket        :
